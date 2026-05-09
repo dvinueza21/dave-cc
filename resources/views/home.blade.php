@@ -239,7 +239,7 @@
   <i class="bi bi-arrow-up-short"></i>
 </a>
 
-<div id="preloader"></div>
+<!--<div id="preloader"></div> -->
 
 <script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
 <script src="{{ asset('assets/vendor/aos/aos.js') }}"></script>
@@ -249,7 +249,7 @@
 <script src="{{ asset('assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
 <script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
 
-<script src="{{ asset('assets/js/main.js') }}"></script>
+
 
 </body>
 </html>
